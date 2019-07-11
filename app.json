@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "POC",
+    "slug": "POC",
+    "privacy": "public",
+    "sdkVersion": "33.0.0",
+    "android" : {
+      "package": "com.mandar.POC"
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/index.png",
+    "splash": {
+      "image": "./assets/index.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
