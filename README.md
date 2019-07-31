@@ -8,6 +8,12 @@ git clone https://github.com/mvcman/POC-app.git
 ```
 
 ## Installation
+Install expo-cli first
+```
+sudo npm install -g expo-cli
+```
+then create your expo account by using CLI. It will ask for login credentials. Create acount and run following command.
+
 Use a package manager npm to intall npm modules
 ```
 npm install
